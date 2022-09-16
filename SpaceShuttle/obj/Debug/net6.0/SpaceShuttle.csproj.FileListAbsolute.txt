@@ -1,0 +1,15 @@
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\bin\Debug\net6.0\SpaceShuttle.exe
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\bin\Debug\net6.0\SpaceShuttle.deps.json
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\bin\Debug\net6.0\SpaceShuttle.runtimeconfig.json
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\bin\Debug\net6.0\SpaceShuttle.dll
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\bin\Debug\net6.0\SpaceShuttle.pdb
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.csproj.AssemblyReference.cache
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.AssemblyInfoInputs.cache
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.AssemblyInfo.cs
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.csproj.CoreCompileInputs.cache
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.dll
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\refint\SpaceShuttle.dll
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.pdb
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\SpaceShuttle.genruntimeconfig.cache
+C:\Users\dobos.kornel\source\repos\SpaceShuttle\obj\Debug\net6.0\ref\SpaceShuttle.dll
